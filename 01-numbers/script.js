@@ -22,8 +22,8 @@ const sottrazione = 32-8;
 console.log(sottrazione); // Output: 24
 
 // 5. Imposta questa variabile come somma di numOne, numTwo e numThree
-const sum = NaN;
-console.log(sum); // Output: 56
+const somma_2 = 8 + 16 + 32;
+console.log(somma_2); // Output: 56
 
 // 6. Imposta questa variabile come somma di numOne, numTwo, numThree diviso numOne
 const numBytes = NaN;
