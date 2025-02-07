@@ -14,8 +14,8 @@ const molt = 16*32;
 console.log(molt); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
-const numThreeDividedByNumOne = NaN;
-console.log(numThreeDividedByNumOne); // Output: 4
+const divisione = 32/8;
+console.log(divisione); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
 const numThreeMinusNumOne = NaN;
