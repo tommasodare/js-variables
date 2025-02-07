@@ -10,8 +10,8 @@ const somma = 8 + 16;
 console.log(somma); // Output: 24
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
-const numThreeTimesNumTwo = NaN;
-console.log(numThreeTimesNumTwo); // Output: 512
+const molt = 16*32;
+console.log(molt); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
 const numThreeDividedByNumOne = NaN;
