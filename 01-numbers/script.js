@@ -18,8 +18,8 @@ const divisione = 32/8;
 console.log(divisione); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
-const numThreeMinusNumOne = NaN;
-console.log(numThreeMinusNumOne); // Output: 24
+const sottrazione = 32-8;
+console.log(sottrazione); // Output: 24
 
 // 5. Imposta questa variabile come somma di numOne, numTwo e numThree
 const sum = NaN;
